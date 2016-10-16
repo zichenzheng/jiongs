@@ -1,0 +1,41 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    },
+    {
+      "filename" : "Two Jiongs.sticker"
+    },
+    {
+      "filename" : "Three Jiongs.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence-1.stickersequence"
+    },
+    {
+      "filename" : "Jiong!!.sticker"
+    },
+    {
+      "filename" : "Jiong!.sticker"
+    },
+    {
+      "filename" : "Many Jiongs.sticker"
+    },
+    {
+      "filename" : "So Many Jiongs.sticker"
+    },
+    {
+      "filename" : "Jiongs.sticker"
+    },
+    {
+      "filename" : "Jiong in Jiong.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "large"
+  }
+}

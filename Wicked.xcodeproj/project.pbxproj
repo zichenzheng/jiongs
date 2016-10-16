@@ -1,0 +1,510 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		34835DD31DB3034B004B8457 /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 34835DD21DB3034B004B8457 /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		34835DD71DB3034B004B8457 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 34835DD61DB3034B004B8457 /* Stickers.xcstickers */; };
+		34835DD81DB3034B004B8457 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 34835DD61DB3034B004B8457 /* Stickers.xcstickers */; };
+		34835DF91DB3074C004B8457 /* App Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835DF81DB3074C004B8457 /* App Icon.png */; };
+		34835DFB1DB309BB004B8457 /* One Jiong  Small的副本.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835DFA1DB309BB004B8457 /* One Jiong  Small的副本.png */; };
+		34835DFD1DB30A18004B8457 /* One Jiong Big 74x55.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835DFC1DB30A18004B8457 /* One Jiong Big 74x55.png */; };
+		34835DFF1DB30A44004B8457 /* One Jiong Big 32x34.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835DFE1DB30A44004B8457 /* One Jiong Big 32x34.png */; };
+		34835E011DB30A71004B8457 /* One Jiong Big 27x20.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E001DB30A71004B8457 /* One Jiong Big 27x20.png */; };
+		34835E031DB30A98004B8457 /* One Jiong Big 60x45.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E021DB30A98004B8457 /* One Jiong Big 60x45.png */; };
+		34835E171DB30D00004B8457 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 34835E051DB30D00004B8457 /* Contents.json */; };
+		34835E181DB30D00004B8457 /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E061DB30D00004B8457 /* Icon-App-20x20@1x.png */; };
+		34835E191DB30D00004B8457 /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E071DB30D00004B8457 /* Icon-App-20x20@2x.png */; };
+		34835E1A1DB30D00004B8457 /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E081DB30D00004B8457 /* Icon-App-20x20@3x.png */; };
+		34835E1B1DB30D00004B8457 /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E091DB30D00004B8457 /* Icon-App-29x29@1x.png */; };
+		34835E1C1DB30D00004B8457 /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0A1DB30D00004B8457 /* Icon-App-29x29@2x.png */; };
+		34835E1D1DB30D00004B8457 /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0B1DB30D00004B8457 /* Icon-App-29x29@3x.png */; };
+		34835E1E1DB30D00004B8457 /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0C1DB30D00004B8457 /* Icon-App-40x40@1x.png */; };
+		34835E1F1DB30D00004B8457 /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0D1DB30D00004B8457 /* Icon-App-40x40@2x.png */; };
+		34835E201DB30D00004B8457 /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0E1DB30D00004B8457 /* Icon-App-40x40@3x.png */; };
+		34835E211DB30D00004B8457 /* Icon-App-57x57@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E0F1DB30D00004B8457 /* Icon-App-57x57@1x.png */; };
+		34835E221DB30D00004B8457 /* Icon-App-60x60@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E101DB30D00004B8457 /* Icon-App-60x60@1x.png */; };
+		34835E231DB30D00004B8457 /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E111DB30D00004B8457 /* Icon-App-60x60@2x.png */; };
+		34835E241DB30D00004B8457 /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E121DB30D00004B8457 /* Icon-App-60x60@3x.png */; };
+		34835E251DB30D00004B8457 /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E131DB30D00004B8457 /* Icon-App-76x76@1x.png */; };
+		34835E261DB30D00004B8457 /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E141DB30D00004B8457 /* Icon-App-76x76@2x.png */; };
+		34835E271DB30D00004B8457 /* Icon-App-76x76@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E151DB30D00004B8457 /* Icon-App-76x76@3x.png */; };
+		34835E281DB30D00004B8457 /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E161DB30D00004B8457 /* Icon-App-83.5x83.5@2x.png */; };
+		34835E2E1DB30EF6004B8457 /* 27x20.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E291DB30EF6004B8457 /* 27x20.png */; };
+		34835E2F1DB30EF6004B8457 /* 67x50.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E2A1DB30EF6004B8457 /* 67x50.png */; };
+		34835E301DB30EF6004B8457 /* 32x34.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E2B1DB30EF6004B8457 /* 32x34.png */; };
+		34835E311DB30EF6004B8457 /* 74x55.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E2C1DB30EF6004B8457 /* 74x55.png */; };
+		34835E321DB30EF6004B8457 /* 60x45.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E2D1DB30EF6004B8457 /* 60x45.png */; };
+		34835E3C1DB327CF004B8457 /* 54x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E351DB327CF004B8457 /* 54x40.png */; };
+		34835E3D1DB327CF004B8457 /* 120x90.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E361DB327CF004B8457 /* 120x90.png */; };
+		34835E3E1DB327CF004B8457 /* 64x48.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E371DB327CF004B8457 /* 64x48.png */; };
+		34835E3F1DB327CF004B8457 /* 96x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E381DB327CF004B8457 /* 96x72.png */; };
+		34835E401DB327CF004B8457 /* 58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E391DB327CF004B8457 /* 58x58.png */; };
+		34835E411DB327CF004B8457 /* 134x100.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E3A1DB327CF004B8457 /* 134x100.png */; };
+		34835E421DB327CF004B8457 /* 148x110.png in Resources */ = {isa = PBXBuildFile; fileRef = 34835E3B1DB327CF004B8457 /* 148x110.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		34835DD41DB3034B004B8457 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34835DC81DB3034B004B8457 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34835DD11DB3034B004B8457;
+			remoteInfo = StickerPackExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		34835DDE1DB3034B004B8457 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				34835DD31DB3034B004B8457 /* StickerPackExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		34835DCE1DB3034B004B8457 /* Wicked.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Wicked.app; path = Jiongs.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34835DD21DB3034B004B8457 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		34835DD61DB3034B004B8457 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
+		34835DF81DB3074C004B8457 /* App Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Icon.png"; sourceTree = "<group>"; };
+		34835DFA1DB309BB004B8457 /* One Jiong  Small的副本.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "One Jiong  Small的副本.png"; sourceTree = "<group>"; };
+		34835DFC1DB30A18004B8457 /* One Jiong Big 74x55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "One Jiong Big 74x55.png"; sourceTree = "<group>"; };
+		34835DFE1DB30A44004B8457 /* One Jiong Big 32x34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "One Jiong Big 32x34.png"; sourceTree = "<group>"; };
+		34835E001DB30A71004B8457 /* One Jiong Big 27x20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "One Jiong Big 27x20.png"; sourceTree = "<group>"; };
+		34835E021DB30A98004B8457 /* One Jiong Big 60x45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "One Jiong Big 60x45.png"; sourceTree = "<group>"; };
+		34835E051DB30D00004B8457 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		34835E061DB30D00004B8457 /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		34835E071DB30D00004B8457 /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		34835E081DB30D00004B8457 /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		34835E091DB30D00004B8457 /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		34835E0A1DB30D00004B8457 /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		34835E0B1DB30D00004B8457 /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		34835E0C1DB30D00004B8457 /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		34835E0D1DB30D00004B8457 /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		34835E0E1DB30D00004B8457 /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		34835E0F1DB30D00004B8457 /* Icon-App-57x57@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-57x57@1x.png"; sourceTree = "<group>"; };
+		34835E101DB30D00004B8457 /* Icon-App-60x60@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@1x.png"; sourceTree = "<group>"; };
+		34835E111DB30D00004B8457 /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		34835E121DB30D00004B8457 /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		34835E131DB30D00004B8457 /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		34835E141DB30D00004B8457 /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		34835E151DB30D00004B8457 /* Icon-App-76x76@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@3x.png"; sourceTree = "<group>"; };
+		34835E161DB30D00004B8457 /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		34835E291DB30EF6004B8457 /* 27x20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 27x20.png; sourceTree = "<group>"; };
+		34835E2A1DB30EF6004B8457 /* 67x50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 67x50.png; sourceTree = "<group>"; };
+		34835E2B1DB30EF6004B8457 /* 32x34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32x34.png; sourceTree = "<group>"; };
+		34835E2C1DB30EF6004B8457 /* 74x55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 74x55.png; sourceTree = "<group>"; };
+		34835E2D1DB30EF6004B8457 /* 60x45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60x45.png; sourceTree = "<group>"; };
+		34835E351DB327CF004B8457 /* 54x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 54x40.png; sourceTree = "<group>"; };
+		34835E361DB327CF004B8457 /* 120x90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120x90.png; sourceTree = "<group>"; };
+		34835E371DB327CF004B8457 /* 64x48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 64x48.png; sourceTree = "<group>"; };
+		34835E381DB327CF004B8457 /* 96x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 96x72.png; sourceTree = "<group>"; };
+		34835E391DB327CF004B8457 /* 58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58x58.png; sourceTree = "<group>"; };
+		34835E3A1DB327CF004B8457 /* 134x100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 134x100.png; sourceTree = "<group>"; };
+		34835E3B1DB327CF004B8457 /* 148x110.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 148x110.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		34835DC71DB3034B004B8457 = {
+			isa = PBXGroup;
+			children = (
+				34835DD61DB3034B004B8457 /* Stickers.xcstickers */,
+				34835E041DB30D00004B8457 /* AppIcon.appiconset */,
+				34835DFA1DB309BB004B8457 /* One Jiong  Small的副本.png */,
+				34835DFC1DB30A18004B8457 /* One Jiong Big 74x55.png */,
+				34835DF81DB3074C004B8457 /* App Icon.png */,
+				34835E001DB30A71004B8457 /* One Jiong Big 27x20.png */,
+				34835DFE1DB30A44004B8457 /* One Jiong Big 32x34.png */,
+				34835E021DB30A98004B8457 /* One Jiong Big 60x45.png */,
+				34835E291DB30EF6004B8457 /* 27x20.png */,
+				34835E2A1DB30EF6004B8457 /* 67x50.png */,
+				34835E2B1DB30EF6004B8457 /* 32x34.png */,
+				34835E2C1DB30EF6004B8457 /* 74x55.png */,
+				34835E2D1DB30EF6004B8457 /* 60x45.png */,
+				34835DCF1DB3034B004B8457 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		34835DCF1DB3034B004B8457 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34835DCE1DB3034B004B8457 /* Wicked.app */,
+				34835DD21DB3034B004B8457 /* StickerPackExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		34835E041DB30D00004B8457 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				34835E351DB327CF004B8457 /* 54x40.png */,
+				34835E361DB327CF004B8457 /* 120x90.png */,
+				34835E371DB327CF004B8457 /* 64x48.png */,
+				34835E381DB327CF004B8457 /* 96x72.png */,
+				34835E391DB327CF004B8457 /* 58x58.png */,
+				34835E3A1DB327CF004B8457 /* 134x100.png */,
+				34835E3B1DB327CF004B8457 /* 148x110.png */,
+				34835E051DB30D00004B8457 /* Contents.json */,
+				34835E061DB30D00004B8457 /* Icon-App-20x20@1x.png */,
+				34835E071DB30D00004B8457 /* Icon-App-20x20@2x.png */,
+				34835E081DB30D00004B8457 /* Icon-App-20x20@3x.png */,
+				34835E091DB30D00004B8457 /* Icon-App-29x29@1x.png */,
+				34835E0A1DB30D00004B8457 /* Icon-App-29x29@2x.png */,
+				34835E0B1DB30D00004B8457 /* Icon-App-29x29@3x.png */,
+				34835E0C1DB30D00004B8457 /* Icon-App-40x40@1x.png */,
+				34835E0D1DB30D00004B8457 /* Icon-App-40x40@2x.png */,
+				34835E0E1DB30D00004B8457 /* Icon-App-40x40@3x.png */,
+				34835E0F1DB30D00004B8457 /* Icon-App-57x57@1x.png */,
+				34835E101DB30D00004B8457 /* Icon-App-60x60@1x.png */,
+				34835E111DB30D00004B8457 /* Icon-App-60x60@2x.png */,
+				34835E121DB30D00004B8457 /* Icon-App-60x60@3x.png */,
+				34835E131DB30D00004B8457 /* Icon-App-76x76@1x.png */,
+				34835E141DB30D00004B8457 /* Icon-App-76x76@2x.png */,
+				34835E151DB30D00004B8457 /* Icon-App-76x76@3x.png */,
+				34835E161DB30D00004B8457 /* Icon-App-83.5x83.5@2x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		34835DCD1DB3034B004B8457 /* Wicked */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34835DDF1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "Wicked" */;
+			buildPhases = (
+				34835DCC1DB3034B004B8457 /* Resources */,
+				34835DDE1DB3034B004B8457 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34835DD51DB3034B004B8457 /* PBXTargetDependency */,
+			);
+			name = Wicked;
+			productName = Wicked;
+			productReference = 34835DCE1DB3034B004B8457 /* Wicked.app */;
+			productType = "com.apple.product-type.application.messages";
+		};
+		34835DD11DB3034B004B8457 /* StickerPackExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34835DDB1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildPhases = (
+				34835DD01DB3034B004B8457 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StickerPackExtension;
+			productName = StickerPackExtension;
+			productReference = 34835DD21DB3034B004B8457 /* StickerPackExtension.appex */;
+			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		34835DC81DB3034B004B8457 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = ZichenZheng;
+				TargetAttributes = {
+					34835DCD1DB3034B004B8457 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = KVNY946R48;
+						ProvisioningStyle = Automatic;
+					};
+					34835DD11DB3034B004B8457 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = KVNY946R48;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 34835DCB1DB3034B004B8457 /* Build configuration list for PBXProject "Wicked" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 34835DC71DB3034B004B8457;
+			productRefGroup = 34835DCF1DB3034B004B8457 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				34835DCD1DB3034B004B8457 /* Wicked */,
+				34835DD11DB3034B004B8457 /* StickerPackExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		34835DCC1DB3034B004B8457 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34835E261DB30D00004B8457 /* Icon-App-76x76@2x.png in Resources */,
+				34835E3C1DB327CF004B8457 /* 54x40.png in Resources */,
+				34835E1E1DB30D00004B8457 /* Icon-App-40x40@1x.png in Resources */,
+				34835DD81DB3034B004B8457 /* Stickers.xcstickers in Resources */,
+				34835DF91DB3074C004B8457 /* App Icon.png in Resources */,
+				34835E281DB30D00004B8457 /* Icon-App-83.5x83.5@2x.png in Resources */,
+				34835E321DB30EF6004B8457 /* 60x45.png in Resources */,
+				34835DFD1DB30A18004B8457 /* One Jiong Big 74x55.png in Resources */,
+				34835E171DB30D00004B8457 /* Contents.json in Resources */,
+				34835DFB1DB309BB004B8457 /* One Jiong  Small的副本.png in Resources */,
+				34835E3E1DB327CF004B8457 /* 64x48.png in Resources */,
+				34835E231DB30D00004B8457 /* Icon-App-60x60@2x.png in Resources */,
+				34835E1F1DB30D00004B8457 /* Icon-App-40x40@2x.png in Resources */,
+				34835E181DB30D00004B8457 /* Icon-App-20x20@1x.png in Resources */,
+				34835E411DB327CF004B8457 /* 134x100.png in Resources */,
+				34835E221DB30D00004B8457 /* Icon-App-60x60@1x.png in Resources */,
+				34835E031DB30A98004B8457 /* One Jiong Big 60x45.png in Resources */,
+				34835E3F1DB327CF004B8457 /* 96x72.png in Resources */,
+				34835E1A1DB30D00004B8457 /* Icon-App-20x20@3x.png in Resources */,
+				34835E1C1DB30D00004B8457 /* Icon-App-29x29@2x.png in Resources */,
+				34835E2E1DB30EF6004B8457 /* 27x20.png in Resources */,
+				34835E3D1DB327CF004B8457 /* 120x90.png in Resources */,
+				34835E2F1DB30EF6004B8457 /* 67x50.png in Resources */,
+				34835E421DB327CF004B8457 /* 148x110.png in Resources */,
+				34835E211DB30D00004B8457 /* Icon-App-57x57@1x.png in Resources */,
+				34835E1D1DB30D00004B8457 /* Icon-App-29x29@3x.png in Resources */,
+				34835E311DB30EF6004B8457 /* 74x55.png in Resources */,
+				34835E011DB30A71004B8457 /* One Jiong Big 27x20.png in Resources */,
+				34835E271DB30D00004B8457 /* Icon-App-76x76@3x.png in Resources */,
+				34835E201DB30D00004B8457 /* Icon-App-40x40@3x.png in Resources */,
+				34835E251DB30D00004B8457 /* Icon-App-76x76@1x.png in Resources */,
+				34835E191DB30D00004B8457 /* Icon-App-20x20@2x.png in Resources */,
+				34835E301DB30EF6004B8457 /* 32x34.png in Resources */,
+				34835E241DB30D00004B8457 /* Icon-App-60x60@3x.png in Resources */,
+				34835DFF1DB30A44004B8457 /* One Jiong Big 32x34.png in Resources */,
+				34835E401DB327CF004B8457 /* 58x58.png in Resources */,
+				34835E1B1DB30D00004B8457 /* Icon-App-29x29@1x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34835DD01DB3034B004B8457 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34835DD71DB3034B004B8457 /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		34835DD51DB3034B004B8457 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34835DD11DB3034B004B8457 /* StickerPackExtension */;
+			targetProxy = 34835DD41DB3034B004B8457 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		34835DD91DB3034B004B8457 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Zheng ZIchen (KVNY946R48)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = KVNY946R48;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "a7b3b990-b918-4329-91f4-ef6f3b60dbc2";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		34835DDA1DB3034B004B8457 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Zheng ZIchen (KVNY946R48)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = KVNY946R48;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "a7b3b990-b918-4329-91f4-ef6f3b60dbc2";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		34835DDC1DB3034B004B8457 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KVNY946R48;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zichen.jiongs.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos10.0;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		34835DDD1DB3034B004B8457 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KVNY946R48;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zichen.jiongs.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos10.0;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		34835DE01DB3034B004B8457 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Zichen Zheng (M3W6W3JWJ7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KVNY946R48;
+				INFOPLIST_FILE = Wicked/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zichen.jiongs;
+				PRODUCT_NAME = Jiongs;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos10.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		34835DE11DB3034B004B8457 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Zichen Zheng (M3W6W3JWJ7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = KVNY946R48;
+				INFOPLIST_FILE = Wicked/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zichen.jiongs;
+				PRODUCT_NAME = Jiongs;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos10.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		34835DCB1DB3034B004B8457 /* Build configuration list for PBXProject "Wicked" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34835DD91DB3034B004B8457 /* Debug */,
+				34835DDA1DB3034B004B8457 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34835DDB1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34835DDC1DB3034B004B8457 /* Debug */,
+				34835DDD1DB3034B004B8457 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34835DDF1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "Wicked" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34835DE01DB3034B004B8457 /* Debug */,
+				34835DE11DB3034B004B8457 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 34835DC81DB3034B004B8457 /* Project object */;
+}
