@@ -484,7 +484,7 @@
 				34835DDA1DB3034B004B8457 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		34835DDB1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
 			isa = XCConfigurationList;
@@ -493,7 +493,7 @@
 				34835DDD1DB3034B004B8457 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		34835DDF1DB3034B004B8457 /* Build configuration list for PBXNativeTarget "Wicked" */ = {
 			isa = XCConfigurationList;
@@ -502,7 +502,7 @@
 				34835DE11DB3034B004B8457 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
